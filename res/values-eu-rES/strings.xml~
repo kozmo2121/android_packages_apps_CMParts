@@ -380,7 +380,13 @@
   <string name="status_bar_quick_qs_pulldown_summary">Jakinarazpen barraren %1$s ertzak ezarpen azkarren taula hedatuko du</string>
   <string name="status_bar_quick_qs_pulldown_off">Ez</string>
   <string name="status_bar_quick_qs_pulldown_left">ezkerreko</string>
+<<<<<<< HEAD
+  <string name="status_bar_quick_qs_pulldown_right">eskumako</string>
+  <string name="status_bar_toggle_brightness">Distiraren kontrola</string>
+  <string name="status_bar_toggle_brightness_summary">Doitu distira egoera-barran zehar irristatuz</string>
+=======
   <string name="status_bar_quick_qs_pulldown_right">Eskuina</string>
+>>>>>>> 8ba6fe3... Automatic translation import
   <string name="status_bar_double_tap_to_sleep_title">Birritan sakatu lokartzeko</string>
   <string name="status_bar_double_tap_to_sleep_summary">Birritan sakatu egoera-barran pantaila itzaltzeko</string>
   <!-- Status bar - icons -->
