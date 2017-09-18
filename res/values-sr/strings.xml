@@ -136,9 +136,13 @@
   <string name="live_display_color_profile_adaptive_title">Прилагодљиво</string>
   <string name="live_display_color_profile_adaptive_summary">Боје прилагођене амбиенталним условима</string>
   <string name="live_display_color_profile_reading_title">Читање</string>
-  <string name="live_display_color_profile_reading_summary">Топлије боје за мање напрезање очију</string>
-  <string name="color_calibration_title">Калибрација боје</string>
-  <string name="color_calibration_summary">Калибрација боја на екрану</string>
+  <string name="live_display_color_profile_reading_summary">Топлије боје за мање напрезање очију.</string>
+  <string name="live_display_color_profile_srgb_title">sRGB</string>
+  <string name="live_display_color_profile_srgb_summary">Боје које одговарају простору боја sRGB.</string>
+  <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+  <string name="live_display_color_profile_dci_p3_summary">Боје које одговарају простору боја DCI-P3.</string>
+  <string name="color_calibration_title">Калибрација боја</string>
+  <string name="color_calibration_summary">Калибрација боја екрана</string>
   <string name="color_red_title">Црвена</string>
   <string name="color_green_title">Зелена</string>
   <string name="color_blue_title">Плава</string>
