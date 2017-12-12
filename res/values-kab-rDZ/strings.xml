@@ -57,6 +57,7 @@
   <!-- Status bar - Clock -->
   <!-- Status bar - Battery -->
   <!-- Status bar - Battery percentage -->
+  <!-- Status bar - Brightness -->
   <!-- Status bar - icon blacklist -->
   <!-- Protected apps -->
   <!-- Contributors cloud activity -->
@@ -69,37 +70,5 @@
   <!-- Applications: Expanded desktop -->
   <!-- Sounds: Charging sounds -->
   <!-- Gestures: Touchscreen gestures -->
-  <string name="touchscreen_gesture_settings_title">Gjestet me prekje ekrani</string>
-  <string name="touchscreen_gesture_settings_summary">Kryej gjeste të ndryshme duke prekur ekranin për veprime të shpejta</string>
-  <string name="touchscreen_gestures_haptic_feedback_title">Reagimi haptik</string>
-  <string name="touchscreen_gestures_haptic_feedback_summary">Dridhu kur zbulohet një gjest me prekje ekrani</string>
-  <string name="touchscreen_gesture_two_finger_down_swipe_title">Rrëshqit dy gishta poshtë</string>
-  <string name="touchscreen_gesture_one_finger_up_swipe_title">Rrëshqit një gisht lart</string>
-  <string name="touchscreen_gesture_one_finger_down_swipe_title">Rrëshqit një gisht poshtë</string>
-  <string name="touchscreen_gesture_one_finger_left_swipe_title">Rrëshqit një gisht majtas</string>
-  <string name="touchscreen_gesture_one_finger_right_swipe_title">Rrëshqit një gisht djathtas</string>
-  <string name="touchscreen_gesture_up_arrow_title">Vizato një \"Λ\"</string>
-  <string name="touchscreen_gesture_down_arrow_title">Vizato një \"V\"</string>
-  <string name="touchscreen_gesture_left_arrow_title">Vizato një \"&lt;\"</string>
-  <string name="touchscreen_gesture_right_arrow_title">Vizato një \"&gt;\"</string>
-  <string name="touchscreen_gesture_letter_c_title">Vizato shkronjën \"C\"</string>
-  <string name="touchscreen_gesture_letter_e_title">Vizato shkronjën \"e\"</string>
-  <string name="touchscreen_gesture_letter_o_title">Vizato shkronjën \"O\"</string>
-  <string name="touchscreen_gesture_letter_m_title">Vizato shkronjën \"M\"</string>
-  <string name="touchscreen_gesture_letter_s_title">Vizato shkronjën \"S\"</string>
-  <string name="touchscreen_gesture_letter_v_title">Vizato shkronjën \"V\"</string>
-  <string name="touchscreen_gesture_letter_w_title">Vizato shkronjën \"W\"</string>
-  <string name="touchscreen_gesture_letter_z_title">Vizato shkronjën \"Z\"</string>
   <!-- Gesture: Stylus gestures -->
-  <string name="touchscreen_gesture_action_dialog_title">Veprimi e gjestit</string>
-  <string name="touchscreen_gesture_action_do_nothing">Mos bëj asgjë</string>
-  <string name="touchscreen_gesture_action_flashlight">Ndiz/fik elektrikun e dorës</string>
-  <string name="touchscreen_gesture_action_camera">Hap kamerën</string>
-  <string name="touchscreen_gesture_action_browser">Hap shfletuesin</string>
-  <string name="touchscreen_gesture_action_dialer">Hap formuesin e numrit</string>
-  <string name="touchscreen_gesture_action_email">Shiko email-et</string>
-  <string name="touchscreen_gesture_action_messages">Shiko mesazhet</string>
-  <string name="touchscreen_gesture_action_play_pause_music">Nis/ndalo muzikën</string>
-  <string name="touchscreen_gesture_action_previous_track">Shko tek kënga e shkuar</string>
-  <string name="touchscreen_gesture_action_next_track">Shko te kenga e radhës</string>
 </resources>
