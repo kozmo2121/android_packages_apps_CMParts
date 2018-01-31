@@ -296,8 +296,8 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
                 mHomeAnswerCall = null;
             }
 
-            mHomeLongPressAction = initList(KEY_HOME_LONG_PRESS, homeLongPressAction);
-            mHomeDoubleTapAction = initList(KEY_HOME_DOUBLE_TAP, homeDoubleTapAction);
+            mHomeLongPressAction = initActionList(KEY_HOME_LONG_PRESS, homeLongPressAction);
+            mHomeDoubleTapAction = initActionList(KEY_HOME_DOUBLE_TAP, homeDoubleTapAction);
             if (mDisableNavigationKeys.isChecked()) {
                 mHomeLongPressAction.setEnabled(false);
                 mHomeDoubleTapAction.setEnabled(false);
